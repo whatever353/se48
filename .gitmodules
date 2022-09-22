@@ -1,1 +1,3 @@
-
+[submodule "views/archive"] 
+  path = views/archive 
+  url = https://github.com/QuiteAFancyEmerald/Holy-Unblocker/blob/master/.gitmodules
